@@ -1,0 +1,18 @@
+2 cach chay chuong trinh C
+
+1. Cach 1
+- Sử dụng trình biên dịch MSVC
+- Sử dụng visual studio
+
+2. Cach 2
+- Sử dụng trình biên dịch MinGW
+- Cài đặt:
+Đầu tiên cài đặt MinGW
+Cài đặt Visual Studio Code
+Trên Visual Studio Code, cài đặt Extention C/C++
+- Sử dụng:
+Tạo file code.c
+Chạy Run C/C++ File để biên dịch
+Chạy Run Code để chạy file code.exe
+
+  Sử dụng cách 2: gcc Bai16_OrganizeCode.c math_lib.c source.c -o Bai16_OrganizeCode
